@@ -15,8 +15,8 @@ Basics of python:
   -String:
    A string is a series of characters, surrounded by single or double quotes.
    Rules:
-    A = "This is a sample of string"
-    B = 'This is another sample of string
+        A = "This is a sample of string"
+        B = 'This is another sample of string
    
    
  - Lists:
